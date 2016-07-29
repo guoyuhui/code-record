@@ -51,7 +51,12 @@ deploy:
 
 repo:git@github.com:guoyuhui/guoyuhui.github.io.git
 
-2.teminal中依次输入
+2.username:aliceguo2016reborn@gmail.com
+  username:guoyuhui
+  password:G..1.........-.F
+  
+
+3.teminal中依次输入
 
 hexo deploy
 
