@@ -46,6 +46,8 @@ deploy:
   type: git
   
   repo: https://github.com/guoyuhui/guoyuhui.github.io.git
+  
+  >每个冒号后面都麻痹要加空格！！！
 
 repo:git@github.com:guoyuhui/guoyuhui.github.io.git
 
