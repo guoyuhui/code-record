@@ -22,7 +22,7 @@ git clone https://github.com/creationix/nvm.git ~/.nvm && cd ~/.nvm && git check
 
       (11).$ cd ~/Public
       
-    git clone https://github.com/guoyuhui/         guoyuhui.github.io.git
+    git clone https://github.com/guoyuhui/guoyuhui.github.io.git
 
 12. $ hexo init guoyuhui.github.io
 
