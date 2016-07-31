@@ -8,3 +8,4 @@
    theme: next
 4. 用$ hexo clean 来清除 Hexo 的缓存
 5. $ hexo s --debug，前往4000站点，查看是否成功。
+6. 如果成功，用hexo-g,hexo-d两个命令生成，就可以到网址上看到主题变化了。
