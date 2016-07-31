@@ -2,7 +2,7 @@
 
 1. $ cd public/guoyuhui.github.io
 2. $ git clone https://github.com/iissnan/hexo-theme-next themes/next
-3. 当 克隆/下载 完成后，打开 站点配置文件（*a哪个是站点配置文件，哪个是主题配置文件？*）， 找到 theme 字段，并将其值更改为 next。
+3. 当 克隆/下载 完成后，打开 站点配置文件（*a哪个是站点配置文件--guoyuhui下的是站点配置文件，哪个是主题配置文件--theme下的是主题配置文件？*）， 找到 theme 字段，并将其值更改为 next。
    启用 NexT 主题
    
    theme: next
