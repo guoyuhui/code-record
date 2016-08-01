@@ -22,7 +22,7 @@ git clone https://github.com/creationix/nvm.git ~/.nvm && cd ~/.nvm && git check
 
       (11).$ cd ~/Public
       
-    git clone https://github.com/guoyuhui/guoyuhui.github.io.git
+    git clone https://github.com/guoyuhui/guoyuhui.github.io.git(如果hexo出问题，只用重装hexo,不用走clone这一步，直接从第11步调到第13步)
 
 12. $ hexo init guoyuhui.github.io
 
