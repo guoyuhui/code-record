@@ -24,7 +24,7 @@
 
    tags: /tags
 
-   #commonweal: /heartbeat
+   commonweal: /heartbeat
    
 3. 再到next下的language文件夹，找到zh-hans进行更改。
 
@@ -49,5 +49,11 @@
    #commonweal: heartbeat
 
 4. hexo-g , hexo-d
+
+## 设置分类的图标
+1. 去http://fontawesome.io搜索图标名称
+2. 例如：learncloud: graduation-cap
+   thinkcloud: pencil
+   others: heart
 
 ## 
